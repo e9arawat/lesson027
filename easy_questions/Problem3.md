@@ -8,4 +8,4 @@ For example:
                 i/p: [[9, 8, 7], [6, 5, 4], [3, 2, 1]] 
                 o/p: [9, 8, 7, 6, 5, 4, 3, 2, 1]
 
-Write a function **flatten(input_list: list)** *where **input_list** is a nested list with random depth*  in solution.py which will flatten the input_list and return the flattened list.
+Write a function **flatten(input_list: list)** (*where **input_list** is a nested list with random depth*)  in solution.py which will flatten the input_list and return the flattened list.
