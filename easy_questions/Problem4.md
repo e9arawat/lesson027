@@ -10,4 +10,4 @@ Example:
                     Input: [17, 5, 3, 5]
                     Output: 30
 
-Write a function **add_list(input_list: list)**, *where **input_list** contains n numbers each having random number of digits in it*, in solution.py which will return the sum of all the numbers in the input_list.
+Write a function **add_list(input_list: list)**, *where **input_list** contains **n** numbers each having **m** digits in it*, in solution.py which will return the sum of all the numbers in the input_list.
