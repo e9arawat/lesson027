@@ -24,12 +24,12 @@ For example:
 
 Non-repeating character is the character that only occurs once.
 
-Write a function **non_repeating(input_string: str)** to find the first non-repeating character.
+Write a function **non_repeating(input_string: str)** to find the longest sub-string of non_repeating characters.
 
 For example:
     
-                Input: "leetcode" 
-                Output: 'l'
+                Input: "aleetcodoab" 
+                Output: 'leetc'
 
 
 
