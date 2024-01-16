@@ -7,7 +7,7 @@ Write a function **number_to_words(n: int)** which will convert the given number
 For example:
  
                     Input : 895654
-                    Output: eight hundred and ninety five thousand six hundred and fifty-four
+                    Output: 55 ---> (eight hundred and ninety five thousand six hundred and fifty four)
 
 
 # Problem No. 2
