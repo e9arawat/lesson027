@@ -115,5 +115,6 @@ Example:
 Given a string, write a function **longest_palindrome(input_string: str)**  to find the length of the longest palindrome substring.
 
 Example:
+
                     Input: "abcdedcc"
                     Output: "cdedc"
