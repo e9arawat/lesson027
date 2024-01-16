@@ -5,12 +5,9 @@
 A palindrome is a number or letter that remains the same even if the number and letters are inverted.
 
  For example:
- 
-                    $$\begin{align}
                     121, 11, 414, 1221, 74747 are the palindrome numbers.
                     MOM, DAD, MADAM, REFER are the palindrome letters.       
                     JAVATPOINT, PROGRAM, JAVA are not the palindrome letters.
-                    \end{align}$$
 
 Find the value of $d \lt 1000$ for which $1/d$ contains the longest recurring cycle in its decimal fraction part.
 
