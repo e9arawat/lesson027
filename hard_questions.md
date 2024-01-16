@@ -12,7 +12,7 @@ For example:
 
 # Problem No. 2
 
-Given two strings, write a function **longest_common_subsequence(p, q)** which will the longest common subsequence.
+Given two strings, write a function **longest_common_subsequence(s1: str, s2: str)** which will the longest common subsequence.
 
 For example: 
 
