@@ -10,4 +10,4 @@ A palindrome is a number or letter that remains the same even if the number and 
                     MOM, DAD, MADAM, REFER are the palindrome letters.       
                     JAVATPOINT, PROGRAM, JAVA are not the palindrome letters.
 
-Update the function `solver()` in `solution.py` with your solution.
+Write a function **if_palindrome(s: str)** in solution.py to check if **s** id palindrome or not.
